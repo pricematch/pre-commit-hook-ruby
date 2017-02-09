@@ -1,0 +1,5 @@
+-   id: ruby
+    name: ruby
+    entry: ruby
+    language: ruby
+    files: '\.rb$'
